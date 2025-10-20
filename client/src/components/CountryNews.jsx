@@ -15,7 +15,7 @@ function CountryNews() {
     setPage(page - 1);
   }
 
-  function handleNext() {
+  function handleNext() { 
     setPage(page + 1);
   }
 
