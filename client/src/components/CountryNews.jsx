@@ -80,7 +80,7 @@ function CountryNews() {
             className="pagination-btn"
             onClick={handlePrev}
           >
-            Prev
+            Prev.
           </button>
           <p className="font-semibold opacity-80">
             {page} of {Math.ceil(totalResults / pageSize)}
